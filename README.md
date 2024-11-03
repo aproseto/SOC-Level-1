@@ -15,7 +15,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Developing critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-
+[Update this]
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
