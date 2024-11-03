@@ -21,7 +21,6 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Certificate
-[Roseto, Alec SOC Level 1 Cert.pdf](https://github.com/user-attachments/files/17609421/Roseto.Alec.SOC.Level.1.Cert.pdf)
-
+![THM-8QUVRG9ZEL](https://github.com/user-attachments/assets/68b035a1-9f31-4104-ad8b-992044483566)
 *Ref 1: Certificate of Completion*
 
