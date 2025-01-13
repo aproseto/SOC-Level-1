@@ -1,4 +1,4 @@
-# SOC-Level-1
+# SOC Level 1
 
 ## Objective
 The SOC Level 1 Training Path aimed to learn the skills needed to work as a Junior (or Tier 1) Security Analyst in a Security Operations Center. The primary focus was to learn about 7 different cyber security blue team domains (Cyber Defense Frameworks, Cyber Threat Intelligence, Network Security & Traffic Analysis, Endpoint Security Monitoring, Security Information & Event Management, Digital Forensics & Incident Response, & Phishing Analysis) that are used daily while working as a Cybersecurity Analyst and get in introduction into a variety different programs that are utilized in each domain. This hands-on experience is crucial in getting beginning practice with different tools that would be utilized in the workplace and provided in-depth learning on the domains of cybersecurity defense.
